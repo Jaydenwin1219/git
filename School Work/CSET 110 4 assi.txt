@@ -1,0 +1,23 @@
+CSET 110 4 assi
+
+function check(arr, num) {1
+    return arr.includes(num);
+}
+
+const x = check([1, 2, 3, 4, 5, 6,]
+console.log(x)
+
+
+function removeDuplicates(arr) {
+    return [...new Set(array)];
+}
+
+let array =["Apple", "Mango", "Kiwi", "Organge", "Berry", "Mango"]
+console.log(removeDuplicates(Array))
+
+
+let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+const removeEvenValues = arr => arr.filter(num => num % 2 !== 0);
+
+console.log(removeEvenValues(arr));

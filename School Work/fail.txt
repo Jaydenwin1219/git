@@ -1,0 +1,17 @@
+
+// function randomNumber(min, max){
+//     return Math.floor(Math.random() * (max - min) + min);
+// }
+// const rand1 = Math.floor(Math.random() * 1)
+
+// const rand2 = Math.floor(Math.random() * 1)
+
+// const rand3 = Math.floor(Math.random() * 0 + 0)
+
+// console.log(rand1)
+// console.log(rand2)
+// console.log(rand3)
+
+
+
+this is all i could really figure out

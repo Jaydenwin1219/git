@@ -1,0 +1,61 @@
+1. What I understand about agile is, that it's something that help's you and your team with success and helps you all make the best decision.
+
+2. Agile is not a methodology and it say's "there is not much social interaction" which is not true at all. it also says not much thinking except for coding, which is also another false statement. I see at least 3 mistakes.
+There is a tone of social interaction between your team and the customer .
+
+3. Our highest priority is to satisfy the customers through early
+and continuous delivery of valuable software
+
+Welcome changing requirements, even late in development.
+Agile processes harness change for the customer’s competitive
+advantage
+
+Deliver working software frequently, form a couple of weeks to
+a couple of months, with a preference to the shorter timescale
+
+Business people and developers must work together daily
+throughout the project
+
+Build projects around motivated individuals. Give them the
+environment and support they need, and trust them to get the
+job done
+
+The most efficient and effective method of conveying
+information to and within a development team is face-to face
+conversation
+
+Working software is the primary measure of progress
+
+Agile processes promote sustainable development. The
+sponsors, developers, and users should be able to maintain
+constant pace indefinitely
+
+Continuous attention to technical excellence and good design
+enhances agility
+
+Simplicity, the art of maximizing the amount of work not done, is
+essential
+
+The best architectures, requirements and designs emerge from
+self-organizing teams
+
+At regular intervals, the team reflects on how to become more
+effective, then tunes and adjust its behavior accordingly
+
+4. 
+
+5. I think its very acceptable because it solves so many problems and makes the task more efficient or productive, not just wasting time.
+
+6. Extreme programming is really a plan that has man steps and it's actually a methodology. It's something that can be used to help the developers and the customers.
+
+7. No, agile is not a methodology but extreme programming is a methodology
+
+8. Some of the practices for extreme programming is management practices, team practices, programming practices.
+
+9.I think you need both because they have different practices. If you use both of them at the same time then it should make your process easier for you as the developer and or the customer.
+
+10. Yes, it's an iterative model 
+
+11. They help a lot with development and helps the team understand the user and also makes the team prioritize work.
+
+12. I think that pair programming is a waste of man hours but it does have some very key and good upsides to it. Pair programming to me is basically like have a study buddy or just having to check over your work. There are more upsides to it but I feel as if the person checking my work can be doing something else to help besides basically watching write the code.

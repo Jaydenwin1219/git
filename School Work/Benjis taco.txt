@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Lecture 3</title>
+</head>
+<body>
+    <ul class="nav">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#contact">Contact Us</a></li>
+      </ul>
+     <div class="content-wrap">
+        <h1>Benji's Taco's</h1>
+        <p>Come to the best spot in town for the best tacos in the world</p>
+     </div>
+     <section class="features">
+        <div class="feature">
+            <h3>Tacos</h3>
+            <p>hard shell or soft shell with ground beef and sour cream</p>
+        </div>
+        <div class="feature">
+            <h3>Beer</h3>
+            <p>We have all types of cold brew for you</p>
+        </div>
+        <div class="feature">
+            <h3>Wine</h3>
+            <p>Some of the most expensive wine in the world in our very secure safe</p>
+        </div>
+        <div class="feature">
+            <h3>Music</h3>
+            <p>We have live music monday-friday and twice on the weekends</p>
+        </div>
+     </section>
+</body>
+</html>
+
+
+
+
+strong{
+    background-color: yellow;
+    display: block;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.nav {
+    background-color: aquamarine;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    color: black;
+    font-size: 100px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding: 1em 0;
+}
+
+.features {
+    display: grid;
+    grid-gap: 20px;
+    background: aquamarine;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+

@@ -1,0 +1,71 @@
+function multiplicationTable(){
+    const num = document.getElementById("numberInput");
+    let result = document.getElementById("result");
+    result.innerHTML = '';
+    for (let i=1; i<=10; i++){
+        result.innerHTML += '${number} x {i} = ${number * i};'
+    }
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 7</title>
+</head>
+<body>
+    <title>Multiplication table</title>
+    <h1>Multiplication table</h1>
+    <input type="number" id="numberInput" placeholder="Enter a number">
+    <button onclick="generate()">Generate</button>
+    <div id="result"></div>
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button</title>
+</head>
+<body>
+    <div id="createbutton">
+        <!-- <button type="button1"></button> -->
+        <button onclick="createbutton()">CLICK</button>
+        <br>
+        <!-- <button type="button2"></button> -->
+        <button onclick="createbutton()">CLICK</button>
+        <br>
+        <!-- <button type="button3"></button> -->
+        <button onclick="createbutton()">CLICK</button>
+        <br>
+        <!-- <button type="button4"></button> -->
+        <button onclick="createbutton()">CLICK</button>
+        <br>
+        <!-- <button type="button5"></button> -->
+        <button onclick="createbutton()">CLICK</button>
+        <br>
+        <!-- <button type="button6"></button> -->
+        <button onclick="createbutton()">CLICK</button>
+        <br>
+        <!-- <button type="button7"></button> -->
+        <button onclick="createbutton()">CLICK</button>
+        <br>
+        <!-- <button type="button8"></button> -->
+        <button onclick="createbutton()">CLICK</button>
+        <br>
+        <!-- <button type="button9"></button> -->
+        <button onclick="createbutton()">CLICK</button>
+        <br>
+        <!-- <button type="button10"></button> -->
+        <button onclick="createbutton()">CLICK</button>
+    </div>
+    
+    <script>src="index.js"</script>
+</body>
